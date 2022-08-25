@@ -1,1 +1,1 @@
-# boilerplate_budget_app
+# Budget app project for FreeCodeCamp
